@@ -9,7 +9,7 @@
   </a>
   &nbsp;
   <a href="https://eman-memo.github.io/Portfolio/">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="25">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135805.png" alt="Portfolio" width="25">
   </a>
 </p>
 
