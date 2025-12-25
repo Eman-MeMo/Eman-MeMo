@@ -46,7 +46,6 @@ Full Stack .NET Developer with experience in ASP.NET Core, Angular, and SQL Serv
 | [Quiz App](https://github.com/Eman-MeMo/Quiz-System-ITI) | Interactive quiz application with multiple-choice questions and scoring |
 | [Coffee Store (ADO.NET)](https://github.com/Eman-MeMo/Coffee_Store) | Web application to showcase database handling with ADO.NET |
 | [Music Player](https://github.com/Eman-MeMo/Music-Player) | Web application music player with playlist and audio controls |
-| [MyStore](https://github.com/Eman-MeMo/MyStore) | Online store built entirely with Angular |
 
 ---
 
