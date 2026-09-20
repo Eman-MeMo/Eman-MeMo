@@ -80,6 +80,18 @@ Full Stack .NET Developer with hands-on experience building scalable web applica
 
 ---
 
+<h2 class="center">📊 GitHub Stats</h2>
+<div class="cards">
+  <div class="card"><img src="https://github-readme-stats.vercel.app/api?username=Eman-MeMo&show_icons=true&theme=react&bg_color=0D1117&hide_border=true"/></div>
+</div>
+
+<div style="margin-top:15px" class="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eman-MeMo&theme=github_dark" style="width:100%;border-radius:10px"/>
+</div>
+
+
+---
+
 ### 🧠 Fun Fact
 
 > "First, solve the problem. Then, write the code." – John Johnson
