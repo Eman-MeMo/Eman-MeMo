@@ -89,12 +89,6 @@ Full Stack .NET Developer with hands-on experience building scalable web applica
   />
 </div>
 
-
-<div style="margin-top:15px" class="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eman-MeMo&theme=github_dark" style="width:100%;border-radius:10px"/>
-</div>
-
-
 ---
 
 ### 🧠 Fun Fact
