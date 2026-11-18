@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eman Ramadan 👋</h1>
-<h3 align="center">Full Stack .NET Developer | ASP.NET Core · Angular · SQL Server</h3>
+<h3 align="center">Software Developer | Backend & Full Stack .NET | ASP.NET Core · SQL Server · Angular · React</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eman--ramadan/">
@@ -17,20 +17,33 @@
 
 ---
 
-### 🧑‍💻 Summary
+### 👩‍💻 Summary
 
-Full Stack .NET Developer with hands-on experience building scalable web applications using **ASP.NET Core, Angular, and SQL Server**. Currently working as a **Junior Software Developer at Mohandes Life Insurance (MIC Life)**, where I built a full-stack Anti-Money Laundering (AML) system that integrates Python ML APIs — reducing financial data analysis time from ~2 hours to under 2 minutes. Skilled in Clean Architecture, CQRS, RESTful API design, real-time communication with SignalR, and background job processing with caching strategies.
+Software Developer focused on backend and full-stack .NET development.
+I build web applications using C#, ASP.NET Core, SQL Server, Angular, and React.
 
----
+At Mohandes Life Insurance, I have worked on an Anti-Money Laundering
+screening system and an employee performance evaluation system. My work
+includes REST APIs, background processing, SQL-based business rules, SignalR,
+and integrating existing Python processing into .NET workflows.
 
 ### 💼 Current Role
 
-**Junior Software Developer** — Mohandes Life Insurance (MIC Life) | *Dec 2025 – Present*
-- Designed and developed a full-stack AML system for monitoring financial transactions
-- Integrated external Python ML APIs, cutting processing time from ~2 hours to under 2 minutes
-- Implemented background job processing with result caching to reduce redundant server load
-- Built real-time features using SignalR & WebSockets for individual and bulk workflows
+**Software Developer** — Mohandes Life Insurance (MIC Life)  
+*Dec 2025 – Present*
 
+**Anti-Money Laundering (AML) System**
+- Developed features for individual and bulk screening workflows, including search and filtering.
+- Integrated the .NET application with existing Python-based processing for data cleaning and name and national ID matching.
+- Implemented background processing and result reuse for repeated requests, with real-time progress updates using SignalR.
+
+**Employee Performance Evaluation System**
+- Developed employee and manager evaluation workflows using ASP.NET Core and React.
+- Implemented SQL-based organizational data access and performance matrix rules, including eligibility, headcounts, and grade quotas.
+
+**AXISS Insurance ERP**
+- Customized insurance workflows using JavaScript, YAML, and React components without direct access to the core source code.
+  
 ---
 
 ### 🛠 Tech Stack
