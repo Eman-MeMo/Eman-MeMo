@@ -41,7 +41,7 @@ and integrating existing Python processing into .NET workflows.
 - Developed employee and manager evaluation workflows using ASP.NET Core and React.
 - Implemented SQL-based organizational data access and performance matrix rules, including eligibility, headcounts, and grade quotas.
 
-**AXISS Insurance ERP**
+**AXXIS Insurance ERP**
 - Customized insurance workflows using JavaScript, YAML, and React components without direct access to the core source code.
   
 ---
